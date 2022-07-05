@@ -29,3 +29,9 @@
 
 ![Snake animation](https://github.com/VitorFRodrigues/VitorFRodrigues/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+##
+
+### Principais projetos:
+- [Criação de modelo preditivo para decisão de ingresso de paciente na UTI após análise de exames](https://github.com/VitorFRodrigues/Data-Science-Bootcamp/tree/main/Proj05_final)
+
