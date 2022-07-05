@@ -1,8 +1,8 @@
 ### Olá! Eu me chamo Vitor Rodrigues
 
-- 🔭 I’m currently working on data analisys
-- 🌱 I’m currently learning data science and data engineering
-- 😄 Pronouns: ele/dele
+- 🔭 Atualmente trabalho como engenheiro orçamentista e analista de dados;
+- 🌱 Estou desenvolvendo conhecimento em Ciência de Dados e posteriormente Engenharia de Dados;
+- :nerd_face: Adoro filmes, séries e cultura nerd!
 
 <div align="center">
   <a href="https://github.com/VitorFRodrigues">
